@@ -7,13 +7,13 @@
 Введите `Your Value` соответствующие значения, которые вы хотите использовать для каждой переменной.
 
 ```commandline
-    SECRET_KEY=SECRET_KEY
+    SECRET_KEY=Your Value
     ALLOWED_HOSTS=localhost
-    POSTGRES_DB=POSTGRES_DB
-    POSTGRES_USER=POSTGRES_USER
-    POSTGRES_PASSWORD=POSTGRES_PASSWORD
+    POSTGRES_DB=Your Value
+    POSTGRES_USER=Your Value
+    POSTGRES_PASSWORD=Your Value
     POSTGRES_HOST=postgres
-    POSTGRES_PORT=POSTGRES_PORT
+    POSTGRES_PORT=Your Value
     CSRF_TRUSTED_ORIGINS=http://localhost
 ```
 
